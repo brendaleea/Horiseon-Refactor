@@ -13,6 +13,7 @@ This Webpage meets accessibilty standards with the appropriate HTML structure,se
 
 ## Visuals
 ![HoriseonWebpage](./horiseondemoimg.png)
+https://github.com/brendaleea/Horiseon-hw1
 
 
 ## Installation
