@@ -1,4 +1,4 @@
-# Horiseon-hw1
+# Horiseon-Refactor
 
 
 ## Name
@@ -13,7 +13,11 @@ This Webpage meets accessibilty standards with the appropriate HTML structure,se
 
 ## Visuals
 ![HoriseonWebpage](./horiseondemoimg.png)
-https://github.com/brendaleea/Horiseon-hw1
+
+Link:
+https://brendaleea.github.io/Horiseon-Refactor/
+
+
 
 
 ## Installation
