@@ -28,7 +28,6 @@ For any questions please message via Slack
 
 
 
-.
 
 ## License
 
